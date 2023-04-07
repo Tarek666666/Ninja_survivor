@@ -20,6 +20,5 @@ They game will end if player hits an enemy
 - Scoring system: The game keeps track of the player's score, which increases every time the player successfully avoid an enemy.
 ## Screenshots:
 ![Screenshot of DigitalBazzar homepage](https://github.com/Tarek666666/Ninja_survivor/blob/main/images/screenshots/Die.png) 
-<br>
 
 ![Screenshot of DigitalBazzar homepage](https://github.com/Tarek666666/Ninja_survivor/blob/main/images/screenshots/stand.png) 
