@@ -12,6 +12,9 @@ Once the game is running, use the following keyboard inputs to control the chara
 - Enemy speed and number will increase with increasing of the player's score !! GET READY IT'S GONNA GET HARDER AND FASTER
 -The game will end if player hits an enemy
 
+## Demo:
+Online Deployment of this project is available at:    [Ninja_survivor ](https://tarek666666.github.io/Ninja_survivor/) <br>
+
 ## Key Features:
 
 - Object-oriented programming: The game is made up of several classes that handle different aspects of the game logic, such as the character, enemies, and game environment. This approach makes the code more modular and easier to maintain.
