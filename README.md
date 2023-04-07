@@ -9,8 +9,8 @@ Once the game is running, use the following keyboard inputs to control the chara
 
 - Arrow keys: Use the arrow keys to move the character left or right.
 - Top Arrow key : Press  to jump.
-
-They game will end if player hits an enemy
+- Enemy speed and number will increase with increasing of the player's score !! GET READY IT'S GONNA GET HARDER AND FASTER
+-The game will end if player hits an enemy
 
 ## Key Features:
 
